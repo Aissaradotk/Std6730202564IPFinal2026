@@ -1,0 +1,8 @@
+node_modules/
+.env
+.env*.local
+npm-debug.log*
+
+# Local browser captures and ad hoc tests may contain credentials or session data
+pma-page.html
+test-*.js
